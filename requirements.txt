@@ -1,0 +1,17 @@
+editdistance==0.6.2
+fairscale==0.4.13
+funasr==0.7.8
+humanfriendly==10.0
+jiwer==3.0.5
+jsonlines==4.0.0
+kaldiio==2.18.0
+modelscope==1.9.4
+numpy==1.23.5
+oss2==2.18.2
+PyYAML==6.0.1
+scipy==1.15.1
+six==1.16.0
+soundfile==0.12.1
+torch==2.0.1+cu118
+torchaudio==2.0.2+cu118
+transformers==4.33.3
