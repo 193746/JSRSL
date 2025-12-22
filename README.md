@@ -1,4 +1,4 @@
-## [Joint Automatic Speech Recognition And Structure Learning For Better Speech Understanding](https://arxiv.org/abs/2410.00822)
+## [Joint Automatic Speech Recognition And Structure Learning For Better Speech Understanding](https://arxiv.org/abs/2501.07329)
 This repository is the official implementation of JSRSL. The paper has been accepted by ICASSP 2025.
 ### Prepare dataset
 Download the audio data from AISHELL-NER or SLURP and place them in JSRSL/dataset/{dataset}/audio
