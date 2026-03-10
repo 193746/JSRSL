@@ -44,4 +44,3 @@ if __name__ == '__main__':
     params.max_epoch = args.epoch
     params.lr = args.lr  
     modelscope_finetune(params)
-    modelscope_finetune(params)
